@@ -1,0 +1,9 @@
+.input-error{
+    border-color: red;
+}
+.error{
+    color:red;
+}
+button:disabled{
+    opacity:0.35;
+}

@@ -1,8 +1,8 @@
  import React from 'react';
  import './App.css';
  import Mainpage from './components/Mainpage';
- import Login from './components/Login';
- import Register from './components/Register';
+ import Login from './components/Login/Login';
+ import Register from './components/Register/Register';
  import {Routes, Route} from 'react-router-dom';
 
 
